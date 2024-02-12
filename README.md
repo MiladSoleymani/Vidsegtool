@@ -1,1 +1,3 @@
 # Vidsegtool
+
+In this project, we have developed a tool that significantly speeds up the process of preparing image segmentation data. This software uses two algorithms, Optical Flow and Single-Shot segmentation, and tools like pens, polygons, etc., are embedded in the software to provide users with semi-automatic labeling capabilities. In this software, the user labels the first frame of a series of frames, and thereafter, the software automatically takes over labeling the subsequent frames. Furthermore, in this project, we have endeavored to design a comfortable and practical user interface, making the use of the software straightforward and quick for users. 
