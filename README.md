@@ -1,4 +1,4 @@
-# VideoSegTool
+# video segmentation tool
 
 A semi-automatic video segmentation tool that accelerates the preparation of image segmentation data for video sequences. This tool allows users to manually label objects in key frames and automatically propagate labels to subsequent frames using computer vision algorithms.
 
